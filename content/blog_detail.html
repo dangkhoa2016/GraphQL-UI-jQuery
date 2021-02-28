@@ -1,0 +1,21 @@
+<article class="blog-post px-md-3 pb-5">
+    <div class="container">
+        <header class="blog-post-header">
+            <h2 class="title mb-2">{{title}}</h2>
+            <div class="meta mb-3"><span class="date">Published 3 months ago</span><span class="comment"><a href="#">{{comments.length}} comments</a></span></div>
+        </header>
+        
+        <div class="blog-post-body">
+            <figure class="blog-banner">
+                <a href="{{photo}}"><img class="img-fluid" src="{{photo}}" alt="{{title}}"></a>
+            </figure>
+            <p>{{summary}}</p>
+            {{#if content.text}}{{{content.text}}}{{else}}{{{content}}}{{/if}}
+        </div>
+            
+        <nav class="blog-nav nav nav-justified my-5">
+            <a class="nav-link-prev nav-item nav-link rounded-left" href="#">Previous<i class="arrow-prev fas fa-long-arrow-alt-left"></i></a>
+            <a class="nav-link-next nav-item nav-link rounded-right" href="#">Next<i class="arrow-next fas fa-long-arrow-alt-right"></i></a>
+        </nav>
+    </div><!--//container-->
+</article>
