@@ -1,5 +1,8 @@
 <a href="https://themes.3rdwavemedia.com/bootstrap-templates/popular/devblog-free-bootstrap-4-blog-template-for-developers/" target="_blank"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2019/02/Bootstrap-Blog-Template-DevBlog-Pormo.jpg" alt="Bootstrap 4 Blog Template for Developers" /></a>
 
+## About
+This is sample use of GraphQL by using jQuery to connect with your own GraphQL Server or GraphCMS (now is https://hygraph.com/).
+
 ## Theme Details & Demo
 
 **Demo:** https://themes.3rdwavemedia.com/bootstrap-templates/popular/devblog-free-bootstrap-4-blog-template-for-developers/
@@ -12,27 +15,6 @@ Blogging is a great way for developers to share their ideas and promote their wo
 
 This Bootstrap template is made by UX/UI designer [Xiaoying Riley](https://twitter.com/3rdwave_themes) for developers and is 100% FREE as long as you **keep the footer attribution link**. You do not have the rights to resell, sublicense or redistribute (even for free) the template on its own or as a separate attachment from any of your work.
 
-
-If you'd like to **use the template without the attribution link**, you can [buy the **commercial license** via the theme website](https://themes.3rdwavemedia.com/bootstrap-templates/popular/devblog-free-bootstrap-4-blog-template-for-developers/)
-
-
-#### Follow Xiaoying
-
-[Twitter](https://twitter.com/3rdwave_themes)
-
-[Facebook](https://www.facebook.com/3rdwavethemes/)
-
-[Dribbble](https://dribbble.com/Xiaoying)
-
-[Medium](https://medium.com/@3rdwave_themes)
-
-[Linkedin](https://uk.linkedin.com/in/xiaoying)
-
-
-## Latest Version
-**v1.3** - 10 Oct 2020
-
-[Changelog](https://themes.3rdwavemedia.com/bootstrap-templates/popular/devblog-free-bootstrap-4-blog-template-for-developers/?target=changelog)
 
 ## Colour Schemes
 
